@@ -39,9 +39,7 @@ Lead → Contact → Opportunity → Customer
 - Salesforce CRM Module
 - Trailhead Playground Setup
 
-## Note
 ## Screenshots
-
 ![Trailhead 1](Screenshot 2026-05-08 112008.png)
 ![Trailhead 2](Screenshot 2026-05-08 112136.png)
 ![Trailhead 3](Screenshot 2026-05-08 113404.png)
