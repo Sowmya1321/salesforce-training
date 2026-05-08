@@ -40,4 +40,9 @@ Lead → Contact → Opportunity → Customer
 - Trailhead Playground Setup
 
 ## Note
-Add your Trailhead screenshots in this folder.
+## Screenshots
+
+![Trailhead 1](Screenshot 2026-05-08 112008.png)
+![Trailhead 2](Screenshot 2026-05-08 112136.png)
+![Trailhead 3](Screenshot 2026-05-08 113404.png)
+![Trailhead 4](Screenshot 2026-05-08 120557.png)
