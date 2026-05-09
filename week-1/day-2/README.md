@@ -60,4 +60,5 @@ Users can:
 - Agentforce 360 Platform Development Basics
 
 ## Screenshots
-(Add screenshots here after uploading)
+![Screenshot 1](Screenshot 2026-05-09 125656.png)
+![Screenshot 2](Screenshot 2026-05-09 125716.png)
