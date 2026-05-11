@@ -104,4 +104,5 @@ Structured enterprise systems help:
 - Formulas and Validations
 
 ## Screenshots
-(Add screenshots here after uploading)
+![Screenshot 1](Screenshot 2026-05-11 104600.png)
+![Screenshot 2](Screenshot 2026-05-11 111323.png)
