@@ -116,11 +116,4 @@ After this day you understand:
 - Real business logic usage
 
 ---
-  
-## Screenshots
-
-Add your screenshots here:
-
-![Screenshot 1](screenshot1.png)
-
-![Screenshot 2](screenshot2.png)
+  ## Screenshots
