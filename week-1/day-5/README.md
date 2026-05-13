@@ -119,7 +119,7 @@ After this day you understand:
  ## Screenshots
 
 ### Output 1
-![Screenshot 1](./Screenshot%202026-05-13%20215353.png)
+![Screenshot 1]Screenshot%202026-05-13%20215353.png
 
 ### Output 2
-![Screenshot 2](./Screenshot%202026-05-13%20220750.png)
+![Screenshot 2]Screenshot%202026-05-13%20220750.png
