@@ -116,5 +116,10 @@ After this day you understand:
 - Real business logic usage
 
 ---
-  ## Screenshots
-Screenshot 2026-05-13 215353.png
+ ## Screenshots
+
+### Output 1
+![Screenshot 1](./Screenshot%202026-05-13%20215353.png)
+
+### Output 2
+![Screenshot 2](./Screenshot%202026-05-13%20220750.png)
