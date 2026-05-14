@@ -170,6 +170,6 @@ To automatically perform actions when data changes.
 ---
 
 ## 10. Screenshots 
-Screenshot 2026-05-14 132527.png
-Screenshot 2026-05-14 134323.png
+- Screenshot 1: SOQL query execution  
+- Screenshot 2: Flow / Trigger output  
 ---
