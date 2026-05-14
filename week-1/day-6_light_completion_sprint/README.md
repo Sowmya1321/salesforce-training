@@ -8,13 +8,19 @@
 
 ## One Learning from Each Module
 ### 1. Search Solution Basics
+
 Search in Salesforce helps users quickly find records and improves productivity in large enterprise data systems.
+
 ---
 ### 2. Platform Events Basics
+
 Platform Events enable event-driven architecture where one action can automatically trigger multiple system responses.
+
 ---
 ### 3. Command-Line Interface (CLI)
+
 CLI is a developer tool that allows faster and more efficient interaction with Salesforce using commands instead of UI clicks.
+
 ---
 ## Light Tasks
 
@@ -48,8 +54,13 @@ Fast and accurate search is important because:
 ---
 
 ## Doubt
+
 How does Salesforce handle and prioritize platform events when many events occur at the same time?
+
 ---
 
 ## Screenshots
+- Screenshot 2026-05-14 143554.png
+- Screenshot 2026-05-14 145632.png 
+- Screenshot 2026-05-14 145913.png 
 ---
