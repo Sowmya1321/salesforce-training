@@ -161,4 +161,6 @@ Modular design makes systems easier to manage and reuse.
 ---
 
 # Screenshots
-(Add screenshots here after uploading)
+![Screenshot 1](Screenshot 2026-05-26 205346.png)
+![Screenshot 2](Screenshot 2026-05-26 205419.png)
+![Screenshot 3](Screenshot 2026-05-26 205451.png)
