@@ -221,4 +221,6 @@ Structured workflows improve coordination and reduce conflicts.
 ---
 
 # Screenshots
-(Add screenshots here after uploading)
+![Screenshot 1](Screenshot 2026-05-26 135933.png)
+![Screenshot 2](Screenshot 2026-05-26 140014.png)
+![Screenshot 3](Screenshot 2026-05-26 140125.png)
