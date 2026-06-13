@@ -245,4 +245,8 @@ Audit trails help organizations track actions and investigate issues when necess
 
 ## Screenshots
 
-(Add screenshots here after uploading)
+### Flow Builder Logic
+![Flow Builder Logic](Screenshot%202026-06-13%20155017.png)
+
+### Approval Process
+![Approval Process](Screenshot%202026-06-13%20155115.png)
