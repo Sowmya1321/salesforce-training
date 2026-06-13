@@ -262,10 +262,12 @@ Enterprise software supports many users, large datasets, security requirements, 
 
 ---
 
-# Screenshots
+## Screenshots
 
+![Screenshot 1](Screenshot 2026-06-13 152707.png)
 
+![Screenshot 2](Screenshot 2026-06-13 152802.png)
 
-![Screenshot 2](Screenshot2.png)
+![Screenshot 3](Screenshot 2026-06-13 152918.png)
 
-![Screenshot 3](Screenshot3.png)
+![Screenshot 4](Screenshot 2026-06-13 152956.png)
