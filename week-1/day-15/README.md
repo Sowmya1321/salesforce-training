@@ -326,6 +326,14 @@ Governance ensures data remains accurate, secure, consistent, and reliable.
 
 ---
 
-# Screenshots
+## Conclusion
 
-(Add screenshots here after uploading)
+Data quality and governance are essential for maintaining reliable enterprise systems. Proper validation, duplicate prevention, and controlled data migration help organizations maintain accurate records and support informed business decisions.
+
+## Screenshots
+
+### Data Management Module
+![Data Management](Screenshot%202026-06-13%20160814.png)
+
+### Data Quality Module
+![Data Quality](Screenshot%202026-06-13%20160838.png)
