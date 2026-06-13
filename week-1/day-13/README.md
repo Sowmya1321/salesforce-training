@@ -329,4 +329,16 @@ Enterprise software requires scalability, reliability, security, testing, and te
 
 ---
 
-# Screenshots
+## Screenshots
+
+### Org Development Model
+![Org Development Model](Screenshot%202026-06-13%20153515.png)
+
+### Salesforce DevOps Workflow
+![DevOps Workflow](Screenshot%202026-06-13%20154054.png)
+
+### GitHub Actions / CI-CD
+![GitHub Actions](Screenshot%202026-06-13%20154135.png)
+
+### Deployment Pipeline
+![Deployment Pipeline](Screenshot%202026-06-13%20154202.png)
