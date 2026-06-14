@@ -352,4 +352,8 @@ Troubleshooting allows developers to quickly identify and resolve issues.
 
 ## Screenshots
 
-(Add screenshots here after uploading)
+![Screenshot 1](Screenshot%202026-06-14%20145712.png)
+
+![Screenshot 2](Screenshot%202026-06-14%20145740.png)
+
+![Screenshot 3](Screenshot%202026-06-14%20145810.png)
