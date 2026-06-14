@@ -505,6 +505,12 @@ CRM, Data Modeling, Validation Rules, Flows, Apex, Triggers, and LWC work togeth
 
 ---
 
-# Screenshots
+## Screenshots
 
-(Add screenshots here after uploading)
+![Screenshot 1](Screenshot%202026-06-14%20153312.png)
+
+![Screenshot 2](Screenshot%202026-06-14%20153430.png)
+
+![Screenshot 3](Screenshot%202026-06-14%20153830.png)
+
+![Screenshot 4](Screenshot%202026-06-14%20153906.png)
