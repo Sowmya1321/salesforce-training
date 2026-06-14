@@ -238,4 +238,12 @@ It ensures reliable, maintainable, and scalable software delivery.
 
 ## Screenshots
 
-(Add screenshots here after uploading)
+![Salesforce DX](Screenshot%202026-06-14%20161652.png)
+
+![Command-Line Interface](Screenshot%202026-06-14%20161711.png)
+
+![Org Development Model](Screenshot%202026-06-14%20161747.png)
+
+![Agentforce DX](Screenshot%202026-06-14%20161823.png)
+
+![Trailmix Progress](Screenshot%202026-06-14%20161846.png)
