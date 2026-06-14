@@ -318,4 +318,10 @@ Because it improves productivity, automation, decision-making, and user experien
 
 ## Screenshots
 
-(Add screenshots here after uploading)
+![Screenshot 1](Screenshot%202026-06-14%20162342.png)
+
+![Screenshot 2](Screenshot%202026-06-14%20162412.png)
+
+![Screenshot 3](Screenshot%202026-06-14%20162431.png)
+
+![Screenshot 4](Screenshot%202026-06-14%20162500.png)
