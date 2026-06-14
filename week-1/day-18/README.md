@@ -582,6 +582,16 @@ Coding focuses on features, while enterprise engineering focuses on reliability,
 
 ---
 
-# Screenshots
+## Screenshots
 
-(Add screenshots here after uploading)
+![Screenshot 1](Screenshot%202026-06-14%20151930.png)
+
+![Screenshot 2](Screenshot%202026-06-14%20151955.png)
+
+![Screenshot 3](Screenshot%202026-06-14%20152032.png)
+
+![Screenshot 4](Screenshot%202026-06-14%20152128.png)
+
+![Screenshot 5](Screenshot%202026-06-14%20152221.png)
+
+![Screenshot 6](Screenshot%202026-06-14%20152258.png)
